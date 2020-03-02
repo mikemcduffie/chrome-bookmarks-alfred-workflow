@@ -16,3 +16,17 @@ chromium:
   bookmarkOpenId: "fe18d1b8-0883-4dae-b463-48b6c86b89b4"
   profileListId: "0dbb6f03-744b-4821-8483-d3e773df15d6"
   profileSetId: "c7b2c7e1-29f0-4b00-84d5-7c3a8bf69549"
+
+# generated with uuidgen
+
+edge:
+  bookmarkListId: "D1649A96-A627-4AA9-96D0-C58F11235B3A"
+  bookmarkOpenId: "618CA036-3AD2-4EBD-BEBF-9E91A4DD4D2C"
+  profileListId: "05D94652-BD91-45F5-826A-FA16BECE5559"
+  profileSetId: "74739711-2798-4691-9C5B-7AD1927577E4"
+
+edgebeta:
+  bookmarkListId: "732F149C-80D8-4F6C-B180-65D9C1E95A48"
+  bookmarkOpenId: "311DC809-2C80-4F50-9323-9A07D3D6C8C9"
+  profileListId: "2239E5FD-F427-49DA-A914-46E612DF2097"
+  profileSetId: "5D0DE98D-DAFB-48B9-99D7-260BCD98BF47"
